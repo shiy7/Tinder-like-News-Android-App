@@ -1,1 +1,1 @@
-# Tinder-like-News-Android-App
+# TinNews Android App
